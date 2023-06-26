@@ -270,7 +270,7 @@ sudo ikev2.sh
 
 开始使用自己的专属 VPN! :sparkles::tada::rocket::sparkles:
 
-喜欢这个项目？[:heart: 赞助](https://github.com/sponsors/hwdsl2?metadata_o=iz) 或 [:coffee: 支持](https://ko-fi.com/hwdsl2) 并访问 [额外内容](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)。
+喜欢这个项目？支持它！阅读 [:book: VPN book](https://books2read.com/vpnzh) 以访问 [额外内容](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)。
 
 ## 重要提示
 
