@@ -84,10 +84,10 @@ A cloud server, virtual private server (VPS) or dedicated server, with an instal
 Other supported Linux distributions.
 </summary>
 
-- Raspberry Pi OS (Raspbian) 11 or 10
+- Raspberry Pi OS (Raspbian)
 - Kali Linux
-- Alpine Linux 3.17 or 3.16
-- Red Hat Enterprise Linux (RHEL) 9, 8 or 7
+- Alpine Linux
+- Red Hat Enterprise Linux (RHEL)
 </details>
 
 This also includes Linux VMs in public clouds, such as [DigitalOcean](https://blog.ls20.com/digitalocean), [Vultr](https://blog.ls20.com/vultr), [Linode](https://blog.ls20.com/linode), [OVH](https://www.ovhcloud.com/en/vps/) and [Microsoft Azure](https://azure.microsoft.com). Public cloud users can also deploy using [user data](https://blog.ls20.com/ipsec-l2tp-vpn-auto-setup-for-ubuntu-12-04-on-amazon-ec2/#vpnsetup).
